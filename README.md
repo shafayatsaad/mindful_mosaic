@@ -6,7 +6,7 @@ Inspired by frameworks like **PANAS**, **DASS-21**, and the **Circumplex Model o
 
 ## **Live Demo**
 
-[(https://mindfulmosaic.vercel.app/)]
+https://mindfulmosaic.vercel.app/
 
 ## 📸 **Screenshots**
 
