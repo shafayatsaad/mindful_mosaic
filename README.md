@@ -1,10 +1,10 @@
-# 🌈 **Mindful Mosaic**: A Digital Journey of Emotion & Art 🎨
+# 🌈 **Mindful Mosaic**: A Digital Journey of Emotion & Art🎨
 
 **Mindful Mosaic** is a web application that transforms your daily emotions into beautiful, abstract mosaic art while providing mood-based music recommendations from YouTube. By combining principles from psychology and color theory, this tool helps users track their mental well-being through creative visualizations and therapeutic audio suggestions. Whether you are reflecting on a calm day or seeking an emotional uplift, **Mindful Mosaic** weaves your feelings into shareable artwork and curated playlists—promoting self-awareness and emotional resonance in the digital age.
 
 Inspired by frameworks like **PANAS**, **DASS-21**, and the **Circumplex Model of Affect**, this project blends **generative art** (via **p5.js**) with **AI-driven sentiment analysis** (using **Hugging Face**) and **music discovery** (through the **Invidious API**). The application is **privacy-focused**, **client-side heavy**, and **easy to deploy**.
 
-##**Live Demo**
+## **Live Demo**
 https://vercel.com/saads-projects-8b312ce4/mindful_mosaic
 
 ## 📸 **Screenshots**
