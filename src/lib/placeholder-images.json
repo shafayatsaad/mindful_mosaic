@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "gallery1",
+      "description": "A vibrant and energetic mosaic with sharp contrasts.",
+      "imageUrl": "https://images.unsplash.com/photo-1615184697985-c9bde1b07da7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhYnN0cmFjdCUyMGFydHxlbnwwfHx8fDE3NjIxNDY4NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract art"
+    },
+    {
+      "id": "gallery2",
+      "description": "A calm and soothing mosaic with smooth gradients.",
+      "imageUrl": "https://images.unsplash.com/photo-1574790335676-2a2bb9d70d08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjYWxtJTIwZ3JhZGllbnRzfGVufDB8fHx8MTc2MjE1MjkxNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "calm gradients"
+    },
+    {
+      "id": "gallery3",
+      "description": "A mosaic with desaturated hues, reflecting a somber mood.",
+      "imageUrl": "https://images.unsplash.com/photo-1697685070059-4b8d49125af1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtdXRlZCUyMGNvbG9yc3xlbnwwfHx8fDE3NjIxNTI5MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "muted colors"
+    },
+    {
+      "id": "gallery4",
+      "description": "A hopeful mosaic with upward rising brightness.",
+      "imageUrl": "https://images.unsplash.com/photo-1630832834840-3ae50c9fe8fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxicmlnaHQlMjBhYnN0cmFjdHxlbnwwfHx8fDE3NjIxNTI5MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bright abstract"
+    },
+    {
+      "id": "gallery5",
+      "description": "A complex pattern representing a complex emotional state.",
+      "imageUrl": "https://images.unsplash.com/photo-1648914301010-9b514bade6c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxpbnRyaWNhdGUlMjBwYXR0ZXJufGVufDB8fHx8MTc2MjE1MjkxNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "intricate pattern"
+    },
+    {
+      "id": "gallery6",
+      "description": "A minimalist mosaic with a single dominant color.",
+      "imageUrl": "https://images.unsplash.com/photo-1618747200896-3814b0136d62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtaW5pbWFsaXN0JTIwYmx1ZXxlbnwwfHx8fDE3NjIxNTI5MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "minimalist blue"
+    },
+    {
+      "id": "gallery7",
+      "description": "Flowing textures in shades of green and purple.",
+      "imageUrl": "https://images.unsplash.com/photo-1684130753264-563cd9be012e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmbG93aW5nJTIwdGV4dHVyZXxlbnwwfHx8fDE3NjIxNTI5MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "flowing texture"
+    },
+    {
+      "id": "gallery8",
+      "description": "Geometric patterns in warm, inviting tones.",
+      "imageUrl": "https://images.unsplash.com/photo-1701964619678-36b35865e238?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxnZW9tZXRyaWMlMjB3YXJtfGVufDB8fHx8MTc2MjE1MjkxNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "geometric warm"
+    }
+  ]
+}
