@@ -5,6 +5,7 @@
 Inspired by frameworks like **PANAS**, **DASS-21**, and the **Circumplex Model of Affect**, this project blends **generative art** (via **p5.js**) with **AI-driven sentiment analysis** (using **Hugging Face**) and **music discovery** (through the **Invidious API**). The application is **privacy-focused**, **client-side heavy**, and **easy to deploy**.
 
 ## **Live Demo**
+
 https://vercel.com/saads-projects-8b312ce4/mindful_mosaic
 
 ## 📸 **Screenshots**
